@@ -1,4 +1,4 @@
-# Merhaba, ben Tolga Demirel 👋
+# Merhaba, ben Tolga 👋
 
 Bilgi Teknolojileri alanında çalışan; kurumsal IT operasyonları, kullanıcı desteği, sistem yönetimi, yazılım/donanım çözümleme ve dijital iş akışları üzerine çalışan bir IT uzmanıyım.
 
