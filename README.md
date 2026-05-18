@@ -55,11 +55,13 @@ Uygulama; yazdırma, dosya dönüştürme, PDF birleştirme ve LAN üzerinden do
 
 ---
 
-## 📈 GitHub İstatistikleri
+## 📊 GitHub Profil Özeti
 
-![Tolga's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgademiirel&show_icons=true&theme=default&hide_border=true)
+![Profile views](https://komarev.com/ghpvc/?username=tolgademiirel&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/tolgademiirel?label=Followers&style=flat&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/tolgademiirel?label=Stars&style=flat&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgademiirel&layout=compact&hide_border=true)
+GitHub istatistik kartları bazı zamanlarda harici servis limitleri nedeniyle görünmeyebilir. Bu nedenle profil özeti daha stabil çalışan rozetlerle sadeleştirilmiştir.
 
 ---
 
