@@ -1,80 +1,126 @@
-# Merhaba, ben Tolga 👋
+<div align="center">
 
-Bilgi Teknolojileri alanında çalışan; kurumsal IT operasyonları, kullanıcı desteği, sistem yönetimi, yazılım/donanım çözümleme ve dijital iş akışları üzerine çalışan bir IT uzmanıyım.
+# Hi, I'm Tolga Demirel 👋
 
-Günlük iş süreçlerinde pratik, sürdürülebilir ve kullanıcı odaklı çözümler üretmeye odaklanıyorum. Kurumsal ihtiyaçlara göre küçük ama etkili araçlar geliştirmeyi, süreçleri sadeleştirmeyi ve teknik işleri daha yönetilebilir hâle getirmeyi seviyorum.
+### IT Specialist · Windows Desktop Tools · Corporate IT Operations · Automation
 
----
+I design practical, reliable and user-focused solutions for corporate IT environments.  
+My work focuses on Windows-based internal tools, IT support workflows, document operations, automation and productivity-oriented software.
 
-## 🚀 Odak Alanlarım
+[![Profile Views](https://komarev.com/ghpvc/?username=tolgademiirel&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/tolgademiirel)
+[![GitHub Followers](https://img.shields.io/github/followers/tolgademiirel?label=Followers&style=flat&logo=github)](https://github.com/tolgademiirel?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/tolgademiirel?label=Stars&style=flat&logo=github)](https://github.com/tolgademiirel?tab=repositories)
 
-- Kurumsal IT operasyonları
-- Sistem ve kullanıcı desteği
-- Windows istemci/sunucu ortamları
-- Donanım, yazılım ve çevre birimi desteği
-- Yazdırma ve doküman iş akışları
-- PowerShell ile otomasyon
-- .NET / C# / WPF masaüstü uygulamaları
-- Yapay zekâ destekli iş süreçleri
-- Azure DevOps ve dijital proje takibi
+</div>
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 👨‍💻 About Me
 
-![Windows](https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-EB3C00?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-4B8BBE?style=for-the-badge&logo=powershell&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-7B2CBF?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-FF6B35?style=for-the-badge&logo=windows&logoColor=white)
+I'm an IT Specialist based in Istanbul, Türkiye. I work on corporate IT operations, user support, Windows environments, document workflows and internal automation tools.
+
+I enjoy turning repetitive operational tasks into simple, maintainable and business-friendly applications. My development focus is mostly around **.NET, C#, WPF, PowerShell, Windows tooling and corporate productivity workflows**.
+
+---
+
+## 🎯 Focus Areas
+
+- Corporate IT operations and end-user support
+- Windows desktop applications and internal business tools
+- Printing, document conversion and file workflow automation
+- PowerShell scripting and operational automation
+- LAN-based productivity tools and controlled file transfer flows
+- Azure DevOps, GitHub and structured project tracking
+- AI-assisted workflow improvement for business teams
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-2563EB?style=for-the-badge&logo=azuredevops&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-16A34A?style=for-the-badge&logo=database&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-06B6D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-F59E0B?style=for-the-badge&logo=zapier&logoColor=white)
 ![IT Support](https://img.shields.io/badge/IT_Support-E11D48?style=for-the-badge&logo=headphones&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI_Tools-10B981?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-## 📌 Öne Çıkan Proje
-
-### 🧩 ToolBridge
-
-**ToolBridge**, kurumsal kullanım için geliştirilen Windows masaüstü uygulamasıdır.
-
-Uygulama; yazdırma, dosya dönüştürme, PDF birleştirme ve LAN üzerinden dosya transferi gibi günlük operasyonel işleri tek arayüzden yönetmeyi hedefler.
-
-**Öne çıkan özellikler:**
-
-- PDF, Word, Excel ve görsel dosyalar için yazdırma akışları
-- DOCX / PDF / görsel dönüştürme süreçleri
-- PDF birleştirme
-- LAN üzerinde kullanıcılar arası dosya transferi
-- Yazıcı yönetimi ve varsayılan cihaz seçimi
-- Kurumsal kullanım için sade, hızlı ve pratik arayüz
-
-> Proje, gerçek kurumsal ihtiyaçlardan yola çıkılarak geliştirilmiştir.
+</div>
 
 ---
 
-## 📊 GitHub Profil Özeti
+## 🚀 Featured Project
 
-![Profile views](https://komarev.com/ghpvc/?username=tolgademiirel&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/tolgademiirel?label=Followers&style=flat&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/tolgademiirel?label=Stars&style=flat&logo=github)
+### [ToolBridge](https://github.com/tolgademiirel/ToolBridge)
 
-GitHub istatistik kartları bazı zamanlarda harici servis limitleri nedeniyle görünmeyebilir. Bu nedenle profil özeti daha stabil çalışan rozetlerle sadeleştirilmiştir.
+**ToolBridge** is a Windows desktop assistant designed for corporate environments.  
+It brings daily document and file operations into a single, clean interface.
+
+**Core capabilities:**
+
+- Printing workflows for PDF, Office documents and image files
+- Document and image conversion flows
+- PDF merging
+- LAN-based online user discovery
+- File transfer between users on the same local network
+- Printer registration, selection and default printer management
+- Operation queue and status tracking
+- External portable tool support for full publish packages
+
+> Built from real corporate IT needs, with a focus on practical usage, maintainability and simple user experience.
 
 ---
 
-## 📫 İletişim
+## 📌 What I Like Building
+
+```text
+Internal tools that reduce repetitive work.
+Clean desktop applications for business teams.
+Automation scripts that make IT operations faster.
+Document and file workflow utilities for corporate users.
+```
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+![Tolga's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgademiirel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgademiirel&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+> GitHub statistic cards are powered by external services and may occasionally be unavailable due to rate limits.
+
+---
+
+## 🇹🇷 Türkçe
+
+Kurumsal IT süreçleri, kullanıcı desteği, Windows ortamları, masaüstü yardımcı uygulamalar, otomasyon ve iç operasyon araçları üzerine çalışıyorum. Amacım; günlük işleri sadeleştiren, sürdürülebilir ve kullanıcı dostu çözümler üretmek.
+
+---
+
+## 📫 Contact
 
 - GitHub: [@tolgademiirel](https://github.com/tolgademiirel)
-- E-posta: **tolgademiirel@gmail.com**
+- Email: **tolgademiirel@gmail.com**
 
 ---
 
-> Sade çözümler, güçlü iş akışları.
+<div align="center">
+
+**Simple tools. Strong workflows. Better operations.**
+
+</div>
