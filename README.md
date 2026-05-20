@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tolga Demirel 👋
+# Hi, I'm Tolga 👋
 
 ### IT Specialist · Windows Desktop Tools · Corporate IT Operations · Automation
 
